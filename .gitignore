@@ -1,3 +1,7 @@
+# Environment variables
+.env
+
+git commit -m "Add .env to .gitignore"
 # Logs
 logs
 *.log
